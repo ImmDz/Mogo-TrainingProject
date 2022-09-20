@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ImmDz/Mogo-TrainingProject#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
     "sass": "^1.54.9"
   }
